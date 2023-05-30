@@ -12,6 +12,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.195",
+    "lodash": "^4.17.21",
     "vue": "^3.3.2"
   },
   "devDependencies": {
